@@ -9,7 +9,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirs12&layout=compact&theme=radical#gh-dark-mode-only)](https://github.com/shirs12/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirs12&layout=compact&theme=default#gh-light-mode-only)](https://github.com/shirs12/github-readme-stats)
+
   
 </div>
 <div align="center">
