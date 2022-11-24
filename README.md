@@ -15,7 +15,7 @@
 </div>
 <div align="center">
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Tools and languages:</h3>
 <p align="center">
 <a href="https://www.java.com" target="Java"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>  </a>
 <a href="https://www.python.org" target="Python"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>  </a>
