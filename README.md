@@ -8,8 +8,8 @@
 [![shirs12's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=shirs12&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/shirs12/github-readme-stats#gh-light-mode-only)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirs12&&hide=jupyter%20notebook&layout=compact&theme=radical#gh-dark-mode-only&langs_count=10)](https://github.com/shirs12/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirs12&&hide=jupyter%20notebook&layout=compact&theme=default#gh-light-mode-only&langs_count=10)](https://github.com/shirs12/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirs12&&hide=jupyter%20notebook&layout=compact&theme=radical#gh-dark-mode-only)](https://github.com/shirs12/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirs12&&hide=jupyter%20notebook&layout=compact&theme=default#gh-light-mode-only)](https://github.com/shirs12/github-readme-stats#gh-light-mode-only)
 
   
 </div>
